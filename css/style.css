@@ -32,7 +32,7 @@ header {
 .square {
   width: calc(1200px / 10);
   height: calc(1200px / 10);
-  background-color: red;
+  background-color: goldenrod;
   color: white;
   display: flex;
   align-items: center;
@@ -43,4 +43,8 @@ header {
 
 .bg-lightblue {
   background-color: lightblue;
+}
+
+.bg-red {
+  background-color: red;
 }
